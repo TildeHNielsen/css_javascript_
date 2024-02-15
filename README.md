@@ -1,2 +1,4 @@
-# css_javascript_
-Fra undervisning
+# Responsiv CSS og introduktion til JavaScript
+
+Her er filerne til Værktøjskasse 3.
+
